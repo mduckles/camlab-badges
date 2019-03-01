@@ -5,7 +5,7 @@
   
   <h1>Micah's and Harry's camlab cretions 
   
-</head>
+<head>
 
 <body>
 <a href="./page2.html"><button>Harry's work</button></a>
