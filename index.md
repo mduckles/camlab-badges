@@ -14,7 +14,7 @@
 <a href="./page3.html"><button>Micah's work</button></a>
 
 
-</body>
+<body>
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-</html>
+<html>
 
 
 
