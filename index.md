@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" href="style2.css">
   
-  <h1>Micah's and Harry's camlab cretions 
+  <title>Micah's and Harry's camlab cretions</title> 
   
 <head>
 
