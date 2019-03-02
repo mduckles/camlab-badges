@@ -3,6 +3,6 @@
 
 
 
-#black{color: white; background-color:black;}
+#black{color: white; background-color:black; border:none ;border-radius: 18px;}
 
 #head1{font-size: 60px;}
